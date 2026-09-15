@@ -58,8 +58,8 @@ Mức: ✅ xong và đã qua review · 🟡 đang làm · ⛔ bị chặn (P-xxx
 
 ## Quy ước person-bit hàng ngày
 
-- **Annotate deadline 16:00** — `nhat-ky-job/YYYY-MM-DD/<ten>-annotate.md` (làm nhiêu nộp bấy)
-- **Review deadline 20:00** — `nhat-ky-job/YYYY-MM-DD/<reviewer>-review-<annotator>.md`
+- **Annotate deadline 16:00** — `nhat-ky-job/<ten>-annotate.md` (làm nhiêu nộp bấy)
+- **Review deadline 20:00** — `nhat-ky-job/<reviewer>-review-<annotator>.md`
 - **T4 review phải xong trước 21:00** để có số liệu họp Duty 1 (T5)
 - Link chéo bắt buộc cùng ngày: annotate → review và review → annotate
 
